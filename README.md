@@ -24,6 +24,6 @@ Instead of duplicating those files in every repository, this repository centrali
 Recommended usage with a versioned tag:
 
 ```rst
-.. image:: https://raw.githubusercontent.com/MovalAgroingenieria/public-assets/logos/moval_logo_small.png
+.. image:: https://raw.githubusercontent.com/MovalAgroingenieria/public-assets/master/logos/logo_moval_small.png
+   :target: http://moval.es
    :alt: Moval Agroingeniería
-   :width: 220px
